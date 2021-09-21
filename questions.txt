@@ -1,0 +1,72 @@
+What dose CPU stand for?
+1) Central Processing Unit
+2) Controlling Portable Unit
+3) Color Paint User
+4) Commands Partially United
+1
+10
+_______ Refers to programs that makes the computer useful to the user.
+1) Application Software
+2) Application Hardware
+3) Operating System
+4) All Above
+1
+10
+What is the Program Development Process.
+1) Text Editor,Source Code, Jave Compiler, Byte Code, Java Virtual Mechine, Program Execution \n "
+2) Program Execution, Java Virtual Machine, Byte Code, Java Compiler, Source Code\n "
+3) Java Compiler, Java Machine, Text Editor, Byte Code \n "
+4) None of the above
+1
+10
+What does the ! operator do?.
+1) Performs a logical NOT operation.
+2) Performs a logical AND operation.
+3) Performs a logical OR operation.
+4) Capitalizes the first letter of a string.
+1
+10
+The statement y = x < 0 : 10 ? 20 contains an error. What should be changed to fix the error?
+1) You can not use = in a conditional operator, it must be ==.
+2) The statement should be written x < 0 : y = 10? Y = 20
+3) The statement should be written y = x < 0 ? 10 : 20
+4) There is no error.
+3
+10
+The __ loop is a post-test loop, which means it will execute the loop prior to testing the condition.
+1) While
+2) If statements
+3) Do-While.
+4) None of the above
+3
+10
+The _ section of the for loop allows the loop to initialize its own control variable.
+1) Test section
+2) Update section
+3) Initialization
+4) None of the above
+3
+10
+Where are the method modifiers and return types written in?
+1) Method Calls
+2) Method Hearders
+3) Returned Calls
+4) Returned Headers
+2
+10
+The first subscript in an array is always:
+1) 1
+2) 0
+3) -1
+4) 1 less than the number of elements
+2
+10
+To determine the number of items stored in an ArrayList object, you use this method:
+1) size
+2) capacity
+3) items
+4) lenght
+1
+10
+m
+m
